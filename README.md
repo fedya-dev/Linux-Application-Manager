@@ -150,8 +150,7 @@
 ### 1. Клониране на проекта
 
 ```bash
-```bash
-git clone [https://github.com/fedya-dev/Linux-Application-Manager.git](https://github.com/fedya-dev/Linux-Application-Manager.git)
+git clone https://github.com/fedya-dev/Linux-Application-Manager.git
 ```
 
 ### 2. Влизане в папката
