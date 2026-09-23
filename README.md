@@ -406,7 +406,7 @@ git push origin feature/ime-na-promyanata
 
 ## Лиценз
 
-Препоръчителният лиценз за проекта е [MIT License](LICENSE).
+Препоръчителният лиценз за проекта е [MIT License](./LICENSE).
 
 Ако все още нямате файл `LICENSE`, можете да добавите MIT лиценз директно от GitHub чрез:
 
